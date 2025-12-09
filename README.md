@@ -17,5 +17,5 @@ This is a classic 2D action adventure game inspired by the likes of Hollow Knigh
 git clone https://github.com/puttipongchut/Rock-And-Slash.git
 ```
 ### Next, You can either
-- Run the game in an IDE like Netbeans or Intellij (Java 21 or older)
+- Run the game in an IDE like Netbeans or Intellij (Java 21 or older) via MainApplication.java
 - Or run the game directly from the .jar file in out/artifacts/game_jar/game.jar
