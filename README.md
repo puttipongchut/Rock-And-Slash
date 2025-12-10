@@ -9,7 +9,7 @@ This is a classic 2D action adventure game inspired by the likes of Hollow Knigh
 - An unique and powerful enemy in the last level, can you beat the Golem?
 
 ## Get Started
-- Make sure you have JRE/JDK Version 21 or older installed.
+- Make sure you have JRE/JDK Version 21 or later installed.
 
 ## How to run the game
 ### First clone this repository
